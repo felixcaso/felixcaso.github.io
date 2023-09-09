@@ -1834,18 +1834,21 @@ function instructions() {
 	fill(255);
 	//text("Instructions", (windowWidth/2)-150,170);
 	textFont(PLAY_FAIR_DISPLAY_BOLD);
-	text("To Play For A Chance At The Raffle", 300, 170);
-
-	textSize(40);
-	//text("Keep track of your score!",450,310);
-	text("Post a picture of you with your end score on the OBF thread.", 150, 370);
-	text("The winner will be chosen from there.", 350, 430);
-
-	textSize(50);
-	text('Enjoy!', 600, 550);
-
 	textSize(30);
-	text('Enter Name to Start Playing', 500, 650);
+	text('Enter Name to Start Playing', 300, 170);
+	// text("To Play For A Chance At The Raffle", 300, 170);
+
+	// textSize(40);
+	// //text("Keep track of your score!",450,310);
+	// text("Post a picture of you with your end score on the OBF thread.", 150, 370);
+	// text("The winner will be chosen from there.", 350, 430);
+
+	// textSize(50);
+	// text('Enjoy!', 600, 550);
+
+	// textSize(30);
+	// text('Enter Name to Start Playing', 500, 650);
+	
 
 }
 
